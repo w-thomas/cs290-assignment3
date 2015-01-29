@@ -13,7 +13,7 @@
 */
 
 //your code here
-function uselessFunction(){
+function uselessFunction() {
 	return null;
 }
 //end your code
@@ -32,17 +32,17 @@ var barType = typeof bar;
 */
 
 //your code here
-bar = function(doubleArray){
-	for(var i = 0; i < doubleArray.length; i++){
-		if(typeof doubleArray[i] != "number"){
+bar = function(doubleArray) {
+	for (var i = 0; i < doubleArray.length; i++) {
+		if (typeof doubleArray[i] != 'number') {
 		  return false;
-		} 
+		}
 		else {
 		  doubleArray[i] *= 2;
         }
 	}
 	return true;
-}
+};
 
 //end your code
 
