@@ -44,7 +44,7 @@ function returnObjectLiteral() {
 
 //your code here
 function MessageLog(user) {
-	this.user = user;
+  	this.user = user;
 	this.sentMessageArr = [];
 	this.recMessageArr = [];
 	this.messageRec = 0;

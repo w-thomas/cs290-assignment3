@@ -1,1 +1,97 @@
 You log goes in this  file.
+
+
+Assignment part 2
+Start:
+End: Sun, 1 Feb 2015 17:20:29 -0800
+Tasks: Fixed some style issues
+Start:
+Start:
+End: Sun, 1 Feb 2015 17:20:29 -0800
+Tasks: Fixed some style issues
+Start:
+End: Sun, 1 Feb 2015 17:18:41 -0800
+Tasks: all features working besides filtering. Giving up due to time constraints
+Start:
+End: Sun, 1 Feb 2015 16:43:22 -0800
+Tasks: Pagination working. Need to fix button generation
+Start:
+End: Sun, 1 Feb 2015 16:08:49 -0800
+Tasks: Started working on pagination
+Start:
+End: Sun, 1 Feb 2015 15:29:13 -0800
+Tasks: Link saving/deletion functional
+Start:
+End: Sun, 1 Feb 2015 14:53:21 -0800
+Tasks: Fixed styling on save button
+Start:
+End: Sun, 1 Feb 2015 14:38:24 -0800
+Tasks: Favorites display in separate section
+Start:
+End: Sun, 1 Feb 2015 14:11:57 -0800
+Tasks: Button actively saves items to local storage
+Start:
+End: Sun, 1 Feb 2015 13:28:14 -0800
+Tasks: working prototype of save functionality
+Start:11:30am
+End: Sun, 1 Feb 2015 12:13:17 -0800
+Tasks: Created favorites object
+Start:
+End: Sat, 31 Jan 2015 22:29:25 -0800
+Tasks: Testing solutions for saving to favorites
+Start:
+End: Sat, 31 Jan 2015 22:05:46 -0800
+Tasks: Started working on favorite swap function
+Start:
+End: Sat, 31 Jan 2015 19:52:38 -0800
+Tasks: Completed function to append buttons to each entry
+Start: 5:30pm
+End: Sat, 31 Jan 2015 18:06:03 -0800
+Tasks: Started adding save favorites functionality
+Start:
+End: Sat, 31 Jan 2015 15:06:30 -0800
+Tasks: Finished function to display list of gists
+Start:
+End: Sat, 31 Jan 2015 14:28:17 -0800
+Tasks: Working on a function to print list of gists to page
+Start:
+End: Sat, 31 Jan 2015 13:38:12 -0800
+Tasks: Cleaned up layout and created headers for results/saved items.
+Start:
+End: Sat, 31 Jan 2015 13:06:36 -0800
+Tasks: Completed ajax call to github api. Currently just logs url of first gist
+Start:
+End: Sat, 31 Jan 2015 11:57:42 -0800
+Tasks: Initial setup for ajax assignment. Created gists.js and layout.html
+Start: 11:30am
+End: Sat, 31 Jan 2015 11:44:22 -0800
+Tasks: Initial commit
+
+Assignment part 1
+Start: 8:30pm
+End: Wed, 28 Jan 2015 21:18:21 -0800
+Tasks: fixed some style issues. Google's styleguide is very confusing regarding tabs/whitespace. Gave up on formatting.
+Start: 8:15pm
+End: Wed, 28 Jan 2015 20:19:58 -0800
+Tasks: Completed last method and student instance of message logging
+Start: 7:00pm
+End: Wed, 28 Jan 2015 20:15:24 -0800
+Tasks: Completed MessageLog object definition/constructor
+Start: 5:30pm
+End: Wed, 28 Jan 2015 18:49:04 -0800
+Tasks: spent forever figuring out how to install lint, fixed lint errors
+Start: 5:00pm
+End: Wed, 28 Jan 2015 17:22:36 -0800
+Tasks: Completed variables.js, finished problem 1 in objects.js
+Start: 7:30pm
+End: Tue, 27 Jan 2015 20:52:54 -0800
+Tasks: Completed functions.js
+Start: 5:00pm
+End: Tue, 27 Jan 2015 17:32:30 -0800
+Tasks: Added all files
+Start: 5:00pm
+End: Tue, 27 Jan 2015 17:31:19 -0800
+Tasks: Initial setup
+Start: 5:00pm
+End: Tue, 27 Jan 2015 17:30:15 -0800
+Tasks: Initial setup
